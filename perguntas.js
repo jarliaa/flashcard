@@ -1,25 +1,25 @@
 criaCartao(
-    'Programação',
-    'O que é Python',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'O que é célula?',
+    'Unidade básica da vida'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?', 
-    'A capital da França é Paris'
+    'Biologia',
+    'Quais são os principais grupos de seres vivos?', 
+    'Animais, plantas, fungos, protistas e bactérias'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biolgia',
+    'Qual é a função do DNA?',
+    'O DNA armazena as informações genéticas que determinam as características dos organismos'
 )
 
 criaCartao(
-    'lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'O que é fotossíntese?',
+    'É o processo pelo qual plantas, algas e algumas bactérias convertem luz solar em energia química, produzindo oxigênio e glicose'
 )
 
 criaCartao(
@@ -29,7 +29,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Biologia',
+    'O que são organismos unicelulares?',
+    'São aqueles formados por uma única célula, como bactérias e protozoários'
 )
